@@ -108,7 +108,7 @@ p {
 }
 
 .container .WorkExp .date {
-    color: darkcyan;
+    color: rgb(2, 75, 75);
 }
 
 .container .footer {
@@ -132,7 +132,7 @@ p {
 .lang-btn {
     padding: 5px;
     font-size: 1rem;
-    color:darkcyan;
+    color: rgb(2, 75, 75);
     background-color: white;
     border: none;
     margin: 0 5px;
@@ -141,6 +141,7 @@ p {
 
 .lang-fr {
     display: inline;
+    
 }
 
 .lang-en {
