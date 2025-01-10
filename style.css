@@ -161,6 +161,7 @@ p {
     .lang-switcher-mobile {
         text-align: center;
         margin-top: 20px;
+        display: none;;
     }
     .lang-switcher{
         display: block;
